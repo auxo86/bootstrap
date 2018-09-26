@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bootstrap", "bootstrap\bootstrap.csproj", "{2A8370FB-0890-4379-A25F-CC87F653EEB0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3B938855-C68D-4AA6-B6B5-8B24CF501E5B}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\admin\Desktop\BootstarpBasicForm.html = C:\Users\admin\Desktop\BootstarpBasicForm.html
+		bootstrap\BootstarpGrid.html = bootstrap\BootstarpGrid.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
